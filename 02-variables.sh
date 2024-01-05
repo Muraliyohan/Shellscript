@@ -1,8 +1,8 @@
 #!/bin/bash
 
-PERSON1=$1
-PERSON2=$2
-PERSON3=$3
+PERSON1=Murali
+PERSON2=Meena
+PERSON3=Yohan
 
 echo "$PERSON1: Hello $PERSON2, Good morning"
 echo "$PERSON2: Hi $PERSON1, very Good morning"
