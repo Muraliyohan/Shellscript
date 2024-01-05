@@ -2,7 +2,7 @@
 
 PERSON1=Murali
 PERSON2=Meena
-PERSON2=Yohan
+PERSON3=Yohan
 
 echo "$PERSON1: Hello $PERSON2, Good morning"
 echo "$PERSON2: Hi $PERSON1, very Good morning"
