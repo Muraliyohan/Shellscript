@@ -17,3 +17,6 @@ echo "$PERSON2: i know man"
 echo "$PERSON3: Iron vanchala emti"
 echo "$PERSON1: paduko nenu vuna kada"
 echo "$PERSON2: Khansaar erupekala"
+
+DATE=$(date)
+echo "date and time is ${DATE}"
