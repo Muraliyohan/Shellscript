@@ -1,5 +1,8 @@
 #!/bin/bash
 
+DATE=$(date)
+echo "script started executing ${DATE}"
+
 PERSON1=Cnu
 PERSON2=Murali
 PERSON3=Ravi
@@ -18,5 +21,3 @@ echo "$PERSON3: Iron vanchala emti"
 echo "$PERSON1: paduko nenu vuna kada"
 echo "$PERSON2: Khansaar erupekala"
 
-DATE=$(date)
-echo "date and time is ${DATE}"
