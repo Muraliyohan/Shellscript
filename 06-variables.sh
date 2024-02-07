@@ -21,3 +21,17 @@ echo "$PERSON3: Iron vanchala emti"
 echo "$PERSON1: paduko nenu vuna kada"
 echo "$PERSON2: Khansaar erupekala"
 
+#!/bin/bash
+
+PERSON1=waseem
+PERSON2=venkat
+PERSON3=Murali
+
+echo "$PERSON1: PERSON2! cid status please"
+echo "$PERSON2: Yes $PERSON1! i will sent EOS"
+echo "$PERSON1: kelly asked some cids status, so what happen ?"
+echo "$PERSON2: that cid 35328, $PERSON3 has the cid, and he is doing development"
+echo "$PERSON3: Hi $PERSON2, i completed development and now its going on internal QC"
+echo "$PERSON2: thank you $PERSON3"
+
+
