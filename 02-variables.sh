@@ -1,13 +1,10 @@
-#!/bin/bash
+#/bin/bash
 
 PERSON1=Murali
 PERSON2=Meena
 PERSON3=Yohan
 
-echo "$PERSON1: Hello $PERSON2, Good morning"
-echo "$PERSON2: Hi $PERSON1, very Good morning"
-echo "$PERSON3: Hey $PERSON1 and $PERSON2 am good"
-echo "$PERSON1: How are you $PERSON2 and $PERSON3"
-echo "$PERSON2: I am good, $PERSON1 How re you"
-echo "$PERSON1: I am also good, $PERSON2"
-echo "$PERSON2: I am also, $PERSON1"
+echo "$PERSON1: Hi Beauty Good morning, what doing my boy"
+echo "$PERSON2: Hi Hubby! very good morning, he is playing at hall"
+echo "$PERSON1: Oh ! nice"
+echo "$PERSON3: hey mum! dad! have a fun day"
